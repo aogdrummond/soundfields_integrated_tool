@@ -1,0 +1,6 @@
+[submodule "soundfield_room_simulation"]
+	path = soundfield_room_simulation
+	url = https://github.com/aogdrummond/soundfield_room_simulation.git
+[submodule "deep_learning_module"]
+	path = deep_learning_module
+	url = https://github.com/aogdrummond/deep_learning_module.git
