@@ -9,10 +9,10 @@
 ----
 &nbsp;
 
-### This repository unites the repos based on two other projects, from different authors, both acknowledged on its' project repo's.  The modules are related according to the schema[img\modules_schema.PNG]:
+### This repository unites the repos based on two other projects, from different authors, both acknowledged on its' project repo's.  The modules are related according to the schema [img/modules_schema.PNG]:
 
 
-![Integration Schema of modules](img\modules_schema.PNG "Module's integration")
+![Integration Schema of modules](img/modules_schema.PNG "Module's integration")
 
 
 
